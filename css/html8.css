@@ -1,7 +1,8 @@
 html {
-    overflow-x:  scroll;
+    overflow-x: scroll;
 }
 
+/*header*/
 header {
     padding: 15px 0;
     border-bottom: 2px solid #e6ecf3;
@@ -46,4 +47,30 @@ ul li {
 
 .navbar ul li a:hover {
     color: #ee27cd
+}
+
+/*footer*/
+footer {
+    padding: 15px 15px;
+    background-color: #008aff;
+}
+
+.foot {
+    overflow: hidden;
+}
+
+.container2 {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.f1 {
+    text-align: center;
+    margin: 10px auto;
+    color: #6dc4ff;
+}
+
+.f1 p {
+    color: #f4f3ff;
+    display: inline-block;
 }
