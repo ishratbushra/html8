@@ -1,0 +1,49 @@
+html {
+    overflow-x:  scroll;
+}
+
+header {
+    padding: 15px 0;
+    border-bottom: 2px solid #e6ecf3;
+}
+
+.head {
+    overflow: hidden;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.logo {
+    float: left;
+}
+
+img {
+    max-width: 100%;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.navbar ul {
+    float: right;
+}
+
+.navbar ul li {
+    float: left;
+}
+
+.navbar ul li a {
+    font-size: 20px;
+    text-decoration: none;
+    margin: 0 15px;
+    display: inline-block;
+    color: #0F2656;
+}
+
+.navbar ul li a:hover {
+    color: #ee27cd
+}
